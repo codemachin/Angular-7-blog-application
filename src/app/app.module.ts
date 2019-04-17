@@ -22,7 +22,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { BlogService } from './blog.service';
 import { BlogHttpService } from './blog-http.service';
 
-
 @NgModule({
   declarations: [
     AppComponent,
